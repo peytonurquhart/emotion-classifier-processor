@@ -1,0 +1,9 @@
+/emotion_classifier/samples/processed/*/*
+/emotion_classifier/samples/raw/*/*
+/emotion_classifier/samples/*.csv
+/emotion_classifier/models/*
+/emotion_classifier/src/__pycache__/*
+/emotion_classifier/src/*.jpg
+/emotion_classifier/src/*.jpeg
+/emotion_classifier/src/*.webp
+/emotion_classifier/src/*.PNG
